@@ -213,7 +213,7 @@
     </td>
     <td align="center" width="100">
       <a href="https://appium.io/" target="_blank" rel="nofollow">
-        <img src="https://appium.io/img/appium-logo.svg" alt="appium" width="40" height="40"/><br />
+        <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" alt="appium" width="40" height="40"/><br />
         Appium
       </a>
     </td>
@@ -279,7 +279,7 @@
     </td>
     <td align="center" width="100">
       <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="nofollow">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/ESP32_Logo.svg" alt="esp32" width="40" height="40"/><br />
+        <img src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" alt="esp32" width="40" height="40"/><br />
         ESP32
       </a>
     </td>
@@ -357,13 +357,13 @@
     </td>
     <td align="center" width="100">
       <a href="https://www.atlassian.com/software/xray" target="_blank" rel="nofollow">
-        <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1513519915/xray.png" alt="xray" width="40" height="40"/><br />
+        <img src="https://marketplace.atlassian.com/files/11638493-3ff7-4f84-9f2d-cd10d8a599dc" alt="xray" width="40" height="40"/><br />
         XRay
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="nofollow">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Confluence_logo.svg" alt="confluence" width="40" height="40"/><br />
+        <img src="https://en.wikipedia.org/wiki/Confluence_(software)#/media/File:Atlassian_Confluence_2017_logo.svg" alt="confluence" width="40" height="40"/><br />
         Confluence
       </a>
     </td>
