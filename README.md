@@ -4,7 +4,7 @@
 
 - I’m currently working on Globant as a Test Automation Engineer.
 
-- Check my profesional profile at LinkedIn   <a href="https://www.linkedin.com/in/bg99astro/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="bg99astro" height="15" top="15"/></a> 
+- Check my profesional profile at <a href="https://www.linkedin.com/in/bg99astro/" target="blank" rel="nofollow">LinkedIn 💼</a> 
 
 - How to reach me **bryangarayacademico@gmail.com** 📫 
 
