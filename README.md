@@ -141,7 +141,7 @@
     </td>
     <td align="center" width="100">
       <a href="https://www.djangoproject.com/" target="_blank" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/><br />
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Framework/django.svg" alt="django" width="40" height="40"/><br />
         Django
       </a>
     </td>
@@ -195,13 +195,13 @@
     </td>
     <td align="center" width="100">
       <a href="https://www.selenium.dev/" target="_blank" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/><br />
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Testing/selenium.svg" alt="selenium" width="40" height="40"/><br />
         Selenium
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://www.cypress.io/" target="_blank" rel="nofollow">
-        <img src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" alt="cypress" width="40" height="40"/><br />
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Testing/cypress.svg" alt="cypress" width="40" height="40"/><br />
         Cypress
       </a>
     </td>
