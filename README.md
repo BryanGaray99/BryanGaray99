@@ -11,7 +11,7 @@
 <h3 align="left">▶ Skills and Technologies</h3>
 
 <details>
-  <summary>▶ Frontend</summary>
+  <summary>Frontend</summary>
   <table>
     <tr>
       <td align="center" width="100">
