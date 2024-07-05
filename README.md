@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bryan Enrique Garay Benavidez</h1>
-<h3 align="center">A passionate Software Engineer Student. Experience working in Testing, Frontend & Backend Development 😄
+<h3 align="center">A passionate Software Engineer Student. Experience working in: Testing - Frontend - Backend  🚀
 </h3>
 
 - I’m currently working on Globant as a Test Automation Engineer.
 
-- Check my profesional profile at LinkedIn <a href="https://www.linkedin.com/in/bg99astro/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="bg99astro" height="15" /></a> 
+- Check my profesional profile at LinkedIn <a href="https://www.linkedin.com/in/bg99astro/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="bg99astro" height="15" top="10"/></a> 
 
 - How to reach me **bryangarayacademico@gmail.com** 📫 
 
