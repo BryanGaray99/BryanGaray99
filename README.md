@@ -10,35 +10,37 @@
 
 <h3 align="left">▶ Skills and Technologies</h3>
 
-<h4 align="left">▶ Frontend:</h4>
-<table>
-  <tr>
-    <td align="center" width="100">
-      <a href="https://www.w3.org/html/" target="_blank" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><br />
-        HTML
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><br />
-        CSS
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.javascript.com/" target="_blank" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><br />
-        JavaScript
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/><br />
-        TypeScript
-      </a>
-    </td>
-  </tr>
-</table>
+<details>
+  <summary>▶ Frontend</summary>
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <a href="https://www.w3.org/html/" target="_blank" rel="nofollow">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><br />
+          HTML
+        </a>
+      </td>
+      <td align="center" width="100">
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="nofollow">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><br />
+          CSS
+        </a>
+      </td>
+      <td align="center" width="100">
+        <a href="https://www.javascript.com/" target="_blank" rel="nofollow">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><br />
+          JavaScript
+        </a>
+      </td>
+      <td align="center" width="100">
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="nofollow">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/><br />
+          TypeScript
+        </a>
+      </td>
+    </tr>
+  </table>
+</details>
 
 <h4 align="left">▶ Web UI:</h4>
 <table>
