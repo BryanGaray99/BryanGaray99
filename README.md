@@ -351,7 +351,7 @@
     </td>
     <td align="center" width="100">
       <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="nofollow">
-        <img src="https://en.wikipedia.org/wiki/Confluence_(software)#/media/File:Atlassian_Confluence_2017_logo.svg" alt="confluence" width="40" height="40"/><br />
+        <img src="https://logos-world.net/wp-content/uploads/2023/11/Confluence-Emblem.png" alt="confluence" width="40" height="40"/><br />
         Confluence
       </a>
     </td>
