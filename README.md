@@ -129,7 +129,7 @@
     </td>
     <td align="center" width="100">
       <a href="https://nestjs.com/" target="_blank" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/><br />
+        <img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="40" height="40"/><br />
         Nest.js
       </a>
     </td>
@@ -281,18 +281,6 @@
       <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="nofollow">
         <img src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" alt="esp32" width="40" height="40"/><br />
         ESP32
-      </a>
-    </td>
-  </tr>
-</table>
-
-<h4 align="left">▶ Virtualization:</h4>
-<table>
-  <tr>
-    <td align="center" width="100">
-      <a href="https://www.vmware.com/" target="_blank" rel="nofollow">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/VMware_logo.svg" alt="vmware" width="40" height="40"/><br />
-        VMware
       </a>
     </td>
   </tr>
