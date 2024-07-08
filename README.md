@@ -24,7 +24,7 @@
       </td>
       <td align="center" width="100">
         <span>
-          <img src="./icons/CSS.svg" alt="css" width="40" height="40"/><br />
+          <img src="./icons/css.svg" alt="css" width="40" height="40"/><br />
           CSS<br />
           3 Yrs Exp
         </span>
@@ -376,7 +376,7 @@
       </td>
       <td align="center" width="100">
         <span>
-          <img src="./icons/Bitbucket.webp" alt="bitbucket" width="40" height="40"/><br />
+          <img src="./icons/bitbucket.webp" alt="bitbucket" width="40" height="40"/><br />
           Bitbucket<br />
           3 Yrs Exp
         </span>
@@ -398,7 +398,7 @@
       </td>
       <td align="center" width="100">
         <span>
-          <img src="./icons/Docker.png" alt="docker" width="40" height="40"/><br />
+          <img src="./icons/docker.png" alt="docker" width="40" height="40"/><br />
           Docker<br />
           3 Yrs Exp
         </span>
