@@ -1,41 +1,41 @@
 <h1 align="center">Hi 👋, I'm Bryan Enrique Garay Benavidez</h1>
-<h3 align="center">A Software Engineer Student. Experience working in: Testing - Frontend - Backend 🚀</h3>
+<h3 align="center">A Software Engineer Student. Experience working in: Testing - Frontend - Backend</h3>
 
 - I’m currently working on Globant as a Test Automation Engineer.
 
-- Check my professional profile at <a href="[https](https://www.linkedin.com/in/bg99astro/)" target="_blank" rel="nofollow">LinkedIn 💼</a>
+- Check my professional profile at **<a href="https://www.linkedin.com/in/bg99astro/" target="_blank" rel="nofollow">LinkedIn 💼</a>**
 
-- You can visualize my <a href="https://www.canva.com/design/DAFsATEDU_4/RKKjNPBKEMcvp4DxJjnp9w/edit?utm_content=DAFsATEDU_4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" rel="nofollow">CV: here 📑 </a>
+- You can visualize my **<a href="https://www.canva.com/design/DAFsATEDU_4/RKKjNPBKEMcvp4DxJjnp9w/edit?utm_content=DAFsATEDU_4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" rel="nofollow">CV: here 📑 </a>**
 
-- How to reach me: **bryangarayacademico@gmail.com** 📫 
+- How to reach me: **bryangarayacademico@gmail.com📫** 
 
-<h3 align="left">Skills and Technologies</h3>
+<h2 align="left">Skills and Technologies</h2>
 
 <h3 align="left">Frontend Development 📱</h3>
 1 year of work experience in web and mobile development projects creating new functionalities for built applications, build and deployment with Dockers. Several personal and academic projects building web UI and mobile interfaces from scratch for applications such as: e-commerce, simulators, games, landing or admin pages.
-</br>
-</br>
+<br />
+<br />
 <table border-collapse="collapse">
   <tr>
     <td align="center" width="100"  border="none";>
       <span>
         <img src="./icons/html.svg" alt="html" width="40" height="40"/><br />
         HTML<br />
-        3 Yrs Exp
+        2 Yrs Exp
       </span>
     </td>
     <td align="center" width="100">
       <span>
         <img src="./icons/css.svg" alt="css" width="40" height="40"/><br />
         CSS<br />
-        3 Yrs Exp
+        2 Yrs Exp
       </span>
     </td>
     <td align="center" width="100">
       <span>
         <img src="./icons/js.svg" alt="javascript" width="40" height="40"/><br />
         JavaScript<br />
-        3 Yrs Exp
+        2 Yrs Exp
       </span>
     </td>
     <td align="center" width="100">
@@ -50,10 +50,10 @@
 
 <details>
   <summary>Frameworks and tools</summary>
-  </br>
+  <br />
   <table>
     <tr>
-      <th>Web</th>
+      <th>Web UI</th>
       <td align="center" width="100">
         <span>
           <img src="./icons/react.svg" alt="react" width="40" height="40"/><br />
@@ -128,10 +128,10 @@
   </table>
 </details>
 
-<h3 align="left">Backend Development 🛢</h3>
-1 año de experiencia laboral construyendo backend services y microservicios usando el patron de diseño MVC. Manejo de diagramas de entidad relación, diagramas de bases de datos. Manejo de dependencias usando POM, Maven, NPM, PIP.  Uso de ORM´s, conexión con bases de datos, Middlewares, creación de endpoints for a CRUD, seguridad con JWT.
-</br>
-</br>
+<h3 align="left">Backend Development 🖥</h3>
+1 year of work experience developing backend services and microservices using the MVC design pattern. Management of entity relationship diagrams, database diagrams. Dependency management using POM, Maven, NPM, PIP.  Use of ORM's, connection with databases, Middlewares, creation of endpoints for a CRUD, security with JWT.
+<br />
+<br />
 <table>
   <tr>
     <td align="center" width="100">
@@ -167,7 +167,7 @@
 
 <details>
   <summary>Backend Frameworks</summary>
-  </br>
+  <br />
   <table>
     <tr>
       <td align="center" width="100">
@@ -211,7 +211,7 @@
 
 <details>
   <summary>Databases</summary>
-  </br>
+  <br />
   <table>
     <tr>
       <th>SQL</th>
@@ -263,99 +263,104 @@
 
 <h3 align="left">Testing 🧪</h3>
 Working experience in unit testing, functional, End2End, load, performance, accessibility testing at Globant. Creation of testing frameworks using Selenium, Playwright or Cypress following POM pattern. Planning, Design and Execution of Test Cases. Bugs reporting. 
-</br>
-</br>
-<table>
-  <tr>
-    <th>Test Runners</th>
-    <td align="center" width="100">
-      <span>
-        <img src="./icons/testng.png" alt="testng" width="40" height="40"/><br />
-        TestNG<br />
-        <1 Yrs Exp
-      </span>
-    </td>
-    <td align="center" width="100">
-      <span>
-        <img src="./icons/junit.png" alt="junit" width="40" height="40"/><br />
-        JUnit<br />
-        3 Yrs Exp
-      </span>
-    </td>
-    <td>
-      <span>
-      </span>
-    </td>
-  </tr>
-  <tr>
-    <th>Web</th>
-    <td align="center" width="100">
-      <span>
-        <img src="./icons/selenium.png" alt="selenium" width="40" height="40"/><br />
-        Selenium<br />
-        3 Yrs Exp
-      </span>
-    </td>
-    <td align="center" width="100">
-      <span>
-        <img src="./icons/cypress.png" alt="cypress" width="40" height="40"/><br />
-        Cypress<br />
-        3 Yrs Exp
-      </span>
-    </td>
-    <td align="center" width="100">
-      <span>
-        <img src="./icons/playwright.png" alt="playwright" width="40" height="40"/><br />
-        Playwright<br />
-        3 Yrs Exp
-      </span>
-    </td>
-  </tr>
-  <tr>
-    <th>Mobile</th>
-    <td align="center" width="100">
-      <span>
-        <img src="./icons/appium.png" alt="appium" width="40" height="40"/><br />
-        Appium<br />
-        3 Yrs Exp
-      </span>
-    </td>
-    <td>
-      <span>
-      </span>
-    </td>
-    <td>
-      <span>
-      </span>
-    </td>
-  </tr>
-  <tr>
-    <th>API</th>
-    <td align="center" width="100">
-      <span>
-        <img src="./icons/postman.svg" alt="postman" width="40" height="40"/><br />
-        Postman<br />
-        3 Yrs Exp
-      </span>
-    </td>
-    <td>
-      <span>
-      </span>
-    </td>
-    <td>
-      <span>
-      </span>
-    </td>
-  </tr>
-</table>
-
-<h3 align="left">▶ Industry-Specific Skills 🤖</h3>
-Theoretical bases and practice with machine learning algorithms for classification and clustering prediction problems.  Assembly and connection of electronic circuits connected to the IoT using Arduino and ESP32 boards, use of libraries and sensors as well as communication protocols such as HTTP and MQTT.
-</br>
-</br>
+<br />
+<br />
 <details>
   <summary>Tables of technologies</summary>
-  </br>
+  <br />
+  <br />
+  <table>
+    <tr>
+      <th>Test Runners</th>
+      <td align="center" width="100">
+        <span>
+          <img src="./icons/testng.png" alt="testng" width="40" height="40"/><br />
+          TestNG<br />
+          <1 Yrs Exp
+        </span>
+      </td>
+      <td align="center" width="100">
+        <span>
+          <img src="./icons/junit.png" alt="junit" width="40" height="40"/><br />
+          JUnit<br />
+          3 Yrs Exp
+        </span>
+      </td>
+      <td>
+        <span>
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <th>Web</th>
+      <td align="center" width="100">
+        <span>
+          <img src="./icons/selenium.png" alt="selenium" width="40" height="40"/><br />
+          Selenium<br />
+          1 Yr Exp
+        </span>
+      </td>
+      <td align="center" width="100">
+        <span>
+          <img src="./icons/cypress.png" alt="cypress" width="40" height="40"/><br />
+          Cypress<br />
+          1 Yr Exp
+        </span>
+      </td>
+      <td align="center" width="100">
+        <span>
+          <img src="./icons/playwright.png" alt="playwright" width="40" height="40"/><br />
+          Playwright<br />
+          <1 Yr Exp
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <th>Mobile</th>
+      <td align="center" width="100">
+        <span>
+          <img src="./icons/appium.png" alt="appium" width="40" height="40"/><br />
+          Appium<br />
+          <1 Yr Exp
+        </span>
+      </td>
+      <td>
+        <span>
+        </span>
+      </td>
+      <td>
+        <span>
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <th>API</th>
+      <td align="center" width="100">
+        <span>
+          <img src="./icons/postman.svg" alt="postman" width="40" height="40"/><br />
+          Postman<br />
+          2 Yrs Exp
+        </span>
+      </td>
+      <td>
+        <span>
+        </span>
+      </td>
+      <td>
+        <span>
+        </span>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<h3 align="left">Industry-Specific Skills 🤖</h3>
+Theoretical bases and practice with machine learning algorithms for classification and clustering prediction problems.  Assembly and connection of electronic circuits connected to the IoT using Arduino and ESP32 boards, use of libraries and sensors as well as communication protocols such as HTTP and MQTT.
+<br />
+<br />
+<details>
+  <summary>Tables of technologies</summary>
+  <br />
   <table>
     <tr>
       <th>Data Analysis - Machine Learning</th>
@@ -447,13 +452,13 @@ Theoretical bases and practice with machine learning algorithms for classificati
   </table>
 </details>
 
-<h3 align="left">▶ Project Management 🗂️</h3>
+<h3 align="left">Project Management 🗂️</h3>
 Accustomed to using version control systems, especially Git and Github. Some experience with deploying applications on production servers using Dockers and Nginx. Deployment of academic projects with Vercel, Netlify and Render. Experience in managing tasks on Agile boards following Scrum with Sprints or Kanban. Documentation with Confluence and Test Case Repository Management with XRay in Jira.
-</br>
-</br>
+<br />
+<br />
 <details>
   <summary>Tools and Technologies</summary>
-  </br>
+  <br />
   <table>
     <tr>
       <th>Version Control System</th>
