@@ -11,7 +11,7 @@
 
 <h3 align="left">Skills and Technologies</h3>
 
-<h3 align="left">▶ Frontend Development </h3>
+<h3 align="left">Frontend Development 📱</h3>
 1 year of work experience in web and mobile development projects creating new functionalities for built applications, build and deployment with Dockers. Several personal and academic projects building web UI and mobile interfaces from scratch for applications such as: e-commerce, simulators, games, landing or admin pages.
 <table border-collapse="collapse">
   <tr>
@@ -121,7 +121,7 @@
   </table>
 </details>
 
-<h3 align="left">▶ Backend Development </h3>
+<h3 align="left">Backend Development 🛢</h3>
 1 año de experiencia laboral construyendo backend services y microservicios usando el patron de diseño MVC. Manejo de diagramas de entidad relación, diagramas de bases de datos. Manejo de dependencias usando POM, Maven, NPM, PIP.  Uso de ORM´s, conexión con bases de datos, Middlewares, creación de endpoints for a CRUD, seguridad con JWT y Passport.
 
 <table>
@@ -247,7 +247,7 @@
   </table>
 </details>
 
-<h3 align="left">▶ Testing </h3>
+<h3 align="left">Testing 🧪</h3>
 Work experience in creating test cases, defect reporting, unit testing, functional testing, End2End, load, performance, accessibility at Globant.
 
 <table>
@@ -314,7 +314,7 @@ Work experience in creating test cases, defect reporting, unit testing, function
   </tr>
 </table>
 
-<h3 align="left">▶ Industry-Specific Skills </h3>
+<h3 align="left">▶ Industry-Specific Skills 🤖</h3>
 Theoretical bases and practice with machine learning algorithms for classification and clustering prediction problems.  Assembly and connection of electronic circuits connected to the IoT using Arduino and ESP32 boards, use of libraries and sensors as well as communication protocols such as HTTP and MQTT.
 <details>
   <summary>Tables of technologies</summary>
@@ -406,11 +406,11 @@ Theoretical bases and practice with machine learning algorithms for classificati
   </table>
 </details>
 
-<h3 align="left">▶ Project Management</h3>
+<h3 align="left">▶ Project Management 🗂️</h3>
 Accustomed to using version control systems, especially Git and Github. Some experience with deploying applications on production servers using Dockers and Nginx. Deployment of academic projects with Vercel, Netlify and Render. Experience in managing tasks on Agile boards following Scrum with Sprints or Kanban. Documentation with Confluence and Test Case Repository Management with XRay in Jira.
 
 <details>
-  <summary>Version Control Systems</summary>
+  <summary>Tools and Technologies</summary>
   <table>
     <tr>
       <th>Version Control System</th>
