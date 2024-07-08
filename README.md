@@ -1,3 +1,12 @@
+<style>
+  table {
+    border-collapse: collapse;
+  }
+  td {
+    border: none;
+  }
+</style>
+
 <h1 align="center">Hi 👋, I'm Bryan Enrique Garay Benavidez</h1>
 <h3 align="center">A Software Engineer Student. Experience working in: Testing - Frontend - Backend 🚀</h3>
 
