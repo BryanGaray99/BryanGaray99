@@ -263,7 +263,7 @@
 
 <h3 align="left">Testing 🧪</h3>
 Working experience in unit testing, functional, End2End, load, performance, accessibility testing at Globant. Creation of testing frameworks using Selenium, Playwright or Cypress following POM pattern. Planning, Design and Execution of Test Cases. Bugs reporting. 
-
+</br>
 </br>
 <table>
   <tr>
@@ -351,7 +351,7 @@ Working experience in unit testing, functional, End2End, load, performance, acce
 
 <h3 align="left">▶ Industry-Specific Skills 🤖</h3>
 Theoretical bases and practice with machine learning algorithms for classification and clustering prediction problems.  Assembly and connection of electronic circuits connected to the IoT using Arduino and ESP32 boards, use of libraries and sensors as well as communication protocols such as HTTP and MQTT.
-
+</br>
 </br>
 <details>
   <summary>Tables of technologies</summary>
