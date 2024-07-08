@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bryan Enrique Garay Benavidez</h1>
-<h3 align="center">A passionate Software Engineer Student. Experience working in: Testing - Frontend - Backend  🚀
+<h3 align="center">A Software Engineer Student. Experience working in: Testing - Frontend - Backend  🚀
 </h3>
 
 - I’m currently working on Globant as a Test Automation Engineer.
