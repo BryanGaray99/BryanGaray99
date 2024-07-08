@@ -202,7 +202,7 @@
         <span>
           <img src="./icons/rails.png" alt="rails" width="40" height="40"/><br />
           Rails<br />
-          3&nbsp;Yrs&nbsp;Exp
+          <1&nbsp;Yrs&nbsp;Exp
         </span>
       </td>
     </tr>
