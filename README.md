@@ -12,7 +12,9 @@
 <h3 align="left">Skills and Technologies</h3>
 
 <h3 align="left">Frontend Development 📱</h3>
-1 year of work experience in web and mobile development projects creating new functionalities for built applications, build and deployment with Dockers. Several personal and academic projects building web UI and mobile interfaces from scratch for applications such as: e-commerce, simulators, games, landing or admin pages.
+1 year of work experience in web and mobile development projects creating new functionalities for built applications, build and deployment with Dockers. Several personal and academic projects building web UI and mobile interfaces from scratch for applications such as: e-commerce, simulators, games, landing or admin pages. 
+
+<br>
 <table border-collapse="collapse">
   <tr>
     <td align="center" width="100"  border="none";>
@@ -48,6 +50,7 @@
 
 <details>
   <summary>Frameworks and tools</summary>
+  </br>
   <table>
     <tr>
       <th>Web</th>
@@ -122,8 +125,9 @@
 </details>
 
 <h3 align="left">Backend Development 🛢</h3>
-1 año de experiencia laboral construyendo backend services y microservicios usando el patron de diseño MVC. Manejo de diagramas de entidad relación, diagramas de bases de datos. Manejo de dependencias usando POM, Maven, NPM, PIP.  Uso de ORM´s, conexión con bases de datos, Middlewares, creación de endpoints for a CRUD, seguridad con JWT y Passport.
+1 año de experiencia laboral construyendo backend services y microservicios usando el patron de diseño MVC. Manejo de diagramas de entidad relación, diagramas de bases de datos. Manejo de dependencias usando POM, Maven, NPM, PIP.  Uso de ORM´s, conexión con bases de datos, Middlewares, creación de endpoints for a CRUD, seguridad con JWT.
 
+<br>
 <table>
   <tr>
     <td align="center" width="100">
@@ -159,6 +163,7 @@
 
 <details>
   <summary>Backend Frameworks</summary>
+  </br>
   <table>
     <tr>
       <td align="center" width="100">
@@ -202,6 +207,7 @@
 
 <details>
   <summary>Databases</summary>
+  </br>
   <table>
     <tr>
       <th>SQL</th>
@@ -243,13 +249,18 @@
           <1 Yr Exp
         </span>
       </td>
+      <td>
+        <span>
+        </span>
+      </td>
     </tr>
   </table>
 </details>
 
 <h3 align="left">Testing 🧪</h3>
-Work experience in creating test cases, defect reporting, unit testing, functional testing, End2End, load, performance, accessibility at Globant.
+Working experience in unit testing, functional, End2End, load, performance, accessibility testing at Globant. Creation of testing frameworks using Selenium, Playwright or Cypress following POM pattern. Planning, Design and Execution of Test Cases. Bugs reporting. 
 
+</br>
 <table>
   <tr>
     <th>Test Runners</th>
@@ -265,6 +276,10 @@ Work experience in creating test cases, defect reporting, unit testing, function
         <img src="./icons/junit.png" alt="junit" width="40" height="40"/><br />
         JUnit<br />
         3 Yrs Exp
+      </span>
+    </td>
+    <td>
+      <span>
       </span>
     </td>
   </tr>
@@ -301,6 +316,14 @@ Work experience in creating test cases, defect reporting, unit testing, function
         3 Yrs Exp
       </span>
     </td>
+    <td>
+      <span>
+      </span>
+    </td>
+    <td>
+      <span>
+      </span>
+    </td>
   </tr>
   <tr>
     <th>API</th>
@@ -311,13 +334,24 @@ Work experience in creating test cases, defect reporting, unit testing, function
         3 Yrs Exp
       </span>
     </td>
+    <td>
+      <span>
+      </span>
+    </td>
+    <td>
+      <span>
+      </span>
+    </td>
   </tr>
 </table>
 
 <h3 align="left">▶ Industry-Specific Skills 🤖</h3>
 Theoretical bases and practice with machine learning algorithms for classification and clustering prediction problems.  Assembly and connection of electronic circuits connected to the IoT using Arduino and ESP32 boards, use of libraries and sensors as well as communication protocols such as HTTP and MQTT.
+
+</br>
 <details>
   <summary>Tables of technologies</summary>
+  </br>
   <table>
     <tr>
       <th>Data Analysis / ML<th>
@@ -409,8 +443,10 @@ Theoretical bases and practice with machine learning algorithms for classificati
 <h3 align="left">▶ Project Management 🗂️</h3>
 Accustomed to using version control systems, especially Git and Github. Some experience with deploying applications on production servers using Dockers and Nginx. Deployment of academic projects with Vercel, Netlify and Render. Experience in managing tasks on Agile boards following Scrum with Sprints or Kanban. Documentation with Confluence and Test Case Repository Management with XRay in Jira.
 
+</br>
 <details>
   <summary>Tools and Technologies</summary>
+  </br>
   <table>
     <tr>
       <th>Version Control System</th>
