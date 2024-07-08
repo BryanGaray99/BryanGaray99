@@ -12,9 +12,9 @@
 <h3 align="left">Skills and Technologies</h3>
 
 <h3 align="left">Frontend Development 📱</h3>
-1 year of work experience in web and mobile development projects creating new functionalities for built applications, build and deployment with Dockers. Several personal and academic projects building web UI and mobile interfaces from scratch for applications such as: e-commerce, simulators, games, landing or admin pages. 
-
-<br>
+1 year of work experience in web and mobile development projects creating new functionalities for built applications, build and deployment with Dockers. Several personal and academic projects building web UI and mobile interfaces from scratch for applications such as: e-commerce, simulators, games, landing or admin pages.
+</br>
+</br>
 <table border-collapse="collapse">
   <tr>
     <td align="center" width="100"  border="none";>
@@ -113,11 +113,15 @@
           1 Yr Exp
         </span>
       </td>
-            <td align="center" width="100">
+      <td align="center" width="100">
         <span>
           <img src="./icons/android-studio.png" alt="android" width="40" height="40"/><br />
           Android Studio <br />
           1 Yr Exp
+        </span>
+      </td>
+      <td align="center" width="100">
+        <span>
         </span>
       </td>
     </tr>
@@ -126,8 +130,8 @@
 
 <h3 align="left">Backend Development 🛢</h3>
 1 año de experiencia laboral construyendo backend services y microservicios usando el patron de diseño MVC. Manejo de diagramas de entidad relación, diagramas de bases de datos. Manejo de dependencias usando POM, Maven, NPM, PIP.  Uso de ORM´s, conexión con bases de datos, Middlewares, creación de endpoints for a CRUD, seguridad con JWT.
-
-<br>
+</br>
+</br>
 <table>
   <tr>
     <td align="center" width="100">
@@ -354,7 +358,7 @@ Theoretical bases and practice with machine learning algorithms for classificati
   </br>
   <table>
     <tr>
-      <th>Data Analysis / ML<th>
+      <th>Data Analysis - Machine Learning</th>
       <td align="center" width="100">
         <span>
           <img src="./icons/pandas.png" alt="pandas" width="40" height="40"/><br />
@@ -392,8 +396,7 @@ Theoretical bases and practice with machine learning algorithms for classificati
       </td>
       <td align="center" width="100">
         <span>
-          <img src="./icons/jupyter.svg
-          " alt="jupyter" width="40" height="40"/><br />
+          <img src="./icons/jupyter.svg" alt="jupyter" width="40" height="40"/><br />
           Jupyter Notebooks<br />
           1 Yr Exp
         </span>
@@ -436,13 +439,17 @@ Theoretical bases and practice with machine learning algorithms for classificati
           1 Yr Exp
         </span>
       </td>
+      <td align="center" width="100">
+        <span>
+        </span>
+      </td>     
     </tr>
   </table>
 </details>
 
 <h3 align="left">▶ Project Management 🗂️</h3>
 Accustomed to using version control systems, especially Git and Github. Some experience with deploying applications on production servers using Dockers and Nginx. Deployment of academic projects with Vercel, Netlify and Render. Experience in managing tasks on Agile boards following Scrum with Sprints or Kanban. Documentation with Confluence and Test Case Repository Management with XRay in Jira.
-
+</br>
 </br>
 <details>
   <summary>Tools and Technologies</summary>
@@ -502,6 +509,10 @@ Accustomed to using version control systems, especially Git and Github. Some exp
           <1 Yr Exp
         </span>
       </td>
+      <td align="center" width="100">
+        <span>
+        </span>
+      </td>      
     </tr>
     <tr>
       <th>Project Management</th>
