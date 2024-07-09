@@ -260,10 +260,10 @@
     </tr>
   </table>
 </details>
-<br />
+<h3>More Skills 🛠️</h3>
 <details>
-  <summary style="font-size: 1.4em;">
-    More Skills 🛠️
+  <summary>
+    Show
   </summary>
   <h3 align="left">Testing 🧪</h3>
   Working experience in unit testing, functional, End2End, load, performance, accessibility testing at Globant. Creation of testing frameworks using Selenium, Playwright or Cypress following POM pattern. Planning, Design and Execution of Test Cases. Bugs reporting. 
@@ -601,57 +601,51 @@
       <span>Last&nbsp;Commit:&nbsp;Jun&nbsp;28,&nbsp;2023</span>
     </td>
   </tr>
-    <tr>
-    <th style="width: 150px;">
+  <tr>
+    <th>
       Deployment
     </th>
     <td align="center">
-      <div style="width: 200px;">
-        <a href="https://decision-tree-simulator.onrender.com/" target="_blank" rel="nofollow">
-          <img src="./proyectos/simulador-decision-tree.png" alt="decision-tree" />
-          https://decision-tree-simulator.onrender.com/
-        </a>
-      </div>
+      <a href="https://decision-tree-simulator.onrender.com/" target="_blank" rel="nofollow">
+        <img src="./proyectos/simulador-decision-tree.png" alt="decision-tree"/><br />
+        _________________________________________
+        Render: https://decision-tree-simulator.onrender.com/
+      </a>
     </td>
     <td align="center">
-      <div style="width: 200px;">
-        <a href="https://bg-lcc-game.onrender.com/games" target="_blank" rel="nofollow">
-          <img src="./proyectos/lcc-juego.png" alt="lcc-juego" />
-          https://bg-lcc-game.onrender.com/games
-        </a>
-      </div>
+      <a href="https://bg-lcc-game.onrender.com/games" target="_blank" rel="nofollow">
+        <img src="./proyectos/lcc-juego.png" alt="lcc-juego" /><br />
+        _________________________________________
+        Render: https://bg-lcc-game.onrender.com/games
+      </a>
     </td>
     <td align="center">
-      <div style="width: 200px;">
-        <a href="https://astro-place-b.netlify.app/" target="_blank" rel="nofollow">
-          <img src="./proyectos/astroplace-desktop.png" alt="astroplace" />
-          https://astro-place-b.netlify.app/
-        </a>
-      </div>
+      <a href="https://astro-place-b.netlify.app/" target="_blank" rel="nofollow">
+        <img src="./proyectos/astroplace-desktop.png" alt="astroplace" /><br />
+        _________________________________________
+        Deployment in Netlify: https://astro-place-b.netlify.app/
+      </a>
     </td>
     <td align="center">
-      <div style="width: 200px;">
-        <a href="https://astro-place-express-backend.onrender.com/" target="_blank" rel="nofollow">
-          <img src="./proyectos/astroplace-backend.png" alt="astroplace-express" />
-          https://astro-place-express-backend.onrender.com/
-        </a>
-      </div>
+      <a href="https://astro-place-express-backend.onrender.com/" target="_blank" rel="nofollow">
+        <img src="./proyectos/astroplace-backend.png" alt="astroplace-express" /><br />
+        _________________________________________
+        Reder: https://astro-place-express-backend.onrender.com/
+      </a>
     </td>
     <td align="center">
-      <div style="width: 200px;">
-        <a href="https://astro-place-admin-bg.vercel.app/" target="_blank" rel="nofollow">
-          <img src="./proyectos/astroplace-admin.png" alt="astroplace-admin" />
-          https://astro-place-admin-bg.vercel.app/
-        </a>
-      </div>
+      <a href="https://astro-place-admin-bg.vercel.app/" target="_blank" rel="nofollow">
+        <img src="./proyectos/astroplace-admin.png" alt="astroplace-admin" /><br />
+        _________________________________________
+        Vercel: https://astro-place-admin-bg.vercel.app/
+      </a>
     </td>
     <td align="center">
-      <div style="width: 200px;">
-        <a href="https://bryangaray99.github.io/TODO-Machine-with-React/" target="_blank" rel="nofollow">
-          <img src="./proyectos/todo-machine.png" alt="todo-machine" />
-          https://bryangaray99.github.io/TODO-Machine-with-React/
-        </a>
-      </div>
+      <a href="https://bryangaray99.github.io/TODO-Machine-with-React/" target="_blank" rel="nofollow">
+        <img src="./proyectos/todo-machine.png" alt="todo-machine" /><br />
+        _________________________________________
+        https://bryangaray99.github.io/TODO-Machine-with-React/
+      </a>
     </td>
   </tr>
   <tr>
