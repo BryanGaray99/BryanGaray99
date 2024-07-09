@@ -549,7 +549,7 @@
           <span>
             <img src="./icons/slack.png" alt="slack" width="40" height="40"/><br />
             Slack<br />
-            1&nbsp;Yrs&nbsp;Exp
+            1&nbsp;Yr&nbsp;Exp
           </span>
         </td>
       </tr>
@@ -583,7 +583,7 @@
     <td align="center">
       <strong>
         <a href="https://github.com/BryanGaray99/Astro-Place-e-commerce" target="_blank" rel="nofollow">
-          Astro Place mock e-commerce
+          Astro Place: mock e-commerce
         </a> <br />
         <span>Last&nbsp;Commit:&nbsp;Feb&nbsp;15,&nbsp;2024</span>
       </strong>
@@ -591,7 +591,7 @@
     <td align="center">
       <strong>
         <a href="https://github.com/BryanGaray99/astro-place-express-postgres-jwt" target="_blank" rel="nofollow">
-          Astro Place Express Backend
+          Astro Place: Express Backend
         </a> <br />
         <span>Last&nbsp;Commit:&nbsp;Sep&nbsp;16,&nbsp;2023</span>
       </strong>
@@ -599,7 +599,7 @@
     <td align="center">
       <strong>
         <a href="https://github.com/BryanGaray99/next-react-shop-admin" target="_blank" rel="nofollow">
-          Astro Place Shop
+          Astro Place: Admin Site
         </a> <br />
         <span>Last&nbsp;Commit:&nbsp;Aug&nbsp;14,&nbsp;2023</span>
       </strong>
@@ -607,7 +607,7 @@
     <td align="center">
       <strong>
         <a href="https://github.com/BryanGaray99/TODO-Machine-with-React" target="_blank" rel="nofollow">
-          TODO Machine
+          TODO Machine with React
         </a> <br />
         <span>Last&nbsp;Commit:&nbsp;Jun&nbsp;28,&nbsp;2023</span>
       </strong>
