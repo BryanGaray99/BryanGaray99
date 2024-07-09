@@ -260,294 +260,492 @@
     </tr>
   </table>
 </details>
-
-<h3 align="left">Testing 🧪</h3>
-Working experience in unit testing, functional, End2End, load, performance, accessibility testing at Globant. Creation of testing frameworks using Selenium, Playwright or Cypress following POM pattern. Planning, Design and Execution of Test Cases. Bugs reporting. 
-<br />
 <br />
 <details>
-  <summary>Tables of technologies</summary>
+  <summary style="font-size: 1.4em;">
+    More Skills 🛠️
+  </summary>
+  <h3 align="left">Testing 🧪</h3>
+  Working experience in unit testing, functional, End2End, load, performance, accessibility testing at Globant. Creation of testing frameworks using Selenium, Playwright or Cypress following POM pattern. Planning, Design and Execution of Test Cases. Bugs reporting. 
   <br />
-  <table>
-    <tr>
-      <th>Test Runners</th>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/testng.png" alt="testng" width="40" height="40"/><br />
-          TestNG<br />
-          <1&nbsp;Yr&nbsp;Exp
-        </span>
-      </td>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/junit.png" alt="junit" width="40" height="40"/><br />
-          JUnit<br />
-          1&nbsp;Yrs&nbsp;Exp
-        </span>
-      </td>
-      <td>
-        <span>
-        </span>
-      </td>
-    </tr>
-    <tr>
-      <th>Web</th>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/selenium.png" alt="selenium" width="40" height="40"/><br />
-          Selenium<br />
-          1&nbsp;Yr&nbsp;Exp
-        </span>
-      </td>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/cypress.png" alt="cypress" width="40" height="40"/><br />
-          Cypress<br />
-          1&nbsp;Yr&nbsp;Exp
-        </span>
-      </td>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/playwright.png" alt="playwright" width="40" height="40"/><br />
-          Playwright<br />
-          <1&nbsp;Yr&nbsp;Exp
-        </span>
-      </td>
-    </tr>
-    <tr>
-      <th>Mobile</th>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/appium.png" alt="appium" width="40" height="40"/><br />
-          Appium<br />
-          <1&nbsp;Yr&nbsp;Exp
-        </span>
-      </td>
-      <td>
-        <span>
-        </span>
-      </td>
-      <td>
-        <span>
-        </span>
-      </td>
-    </tr>
-    <tr>
-      <th>API</th>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/postman.svg" alt="postman" width="40" height="40"/><br />
-          Postman<br />
-          2&nbsp;Yrs&nbsp;Exp
-        </span>
-      </td>
-      <td>
-        <span>
-        </span>
-      </td>
-      <td>
-        <span>
-        </span>
-      </td>
-    </tr>
-  </table>
+  <br />
+  <details>
+    <summary>Tables of technologies</summary>
+    <br />
+    <table>
+      <tr>
+        <th>Test Runners</th>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/testng.png" alt="testng" width="40" height="40"/><br />
+            TestNG<br />
+            <1&nbsp;Yr&nbsp;Exp
+          </span>
+        </td>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/junit.png" alt="junit" width="40" height="40"/><br />
+            JUnit<br />
+            1&nbsp;Yrs&nbsp;Exp
+          </span>
+        </td>
+        <td>
+          <span>
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <th>Web</th>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/selenium.png" alt="selenium" width="40" height="40"/><br />
+            Selenium<br />
+            1&nbsp;Yr&nbsp;Exp
+          </span>
+        </td>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/cypress.png" alt="cypress" width="40" height="40"/><br />
+            Cypress<br />
+            1&nbsp;Yr&nbsp;Exp
+          </span>
+        </td>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/playwright.png" alt="playwright" width="40" height="40"/><br />
+            Playwright<br />
+            <1&nbsp;Yr&nbsp;Exp
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <th>Mobile</th>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/appium.png" alt="appium" width="40" height="40"/><br />
+            Appium<br />
+            <1&nbsp;Yr&nbsp;Exp
+          </span>
+        </td>
+        <td>
+          <span>
+          </span>
+        </td>
+        <td>
+          <span>
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <th>API</th>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/postman.svg" alt="postman" width="40" height="40"/><br />
+            Postman<br />
+            2&nbsp;Yrs&nbsp;Exp
+          </span>
+        </td>
+        <td>
+          <span>
+          </span>
+        </td>
+        <td>
+          <span>
+          </span>
+        </td>
+      </tr>
+    </table>
+  </details>
+
+  <h3 align="left">Industry-Specific Skills 🤖</h3>
+  Theoretical bases and practice with machine learning algorithms for classification and clustering prediction problems.  Assembly and connection of electronic circuits connected to the IoT using Arduino and ESP32 boards, use of libraries and sensors as well as communication protocols such as HTTP and MQTT.
+  <br />
+  <br />
+  <details>
+    <summary>Tables of technologies</summary>
+    <br />
+    <table>
+      <tr>
+        <th>Data Analysis - Machine Learning</th>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/pandas.png" alt="pandas" width="40" height="40"/><br />
+            Pandas<br />
+            2&nbsp;Yrs&nbsp;Exp
+          </span>
+        </td>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/numpy.png" alt="numpy" width="40" height="40"/><br />
+            Numpy<br />
+            2&nbsp;Yrs&nbsp;Exp
+          </span>
+        </td>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/scikit-learn.svg" alt="scikit-learn" width="40" height="40"/><br />
+            Scikit-learn<br />
+            <1&nbsp;Yr&nbsp;Exp
+          </span>
+        </td>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/tensorflow.svg" alt="tensorflow" width="40" height="40"/><br />
+            TensorFlow<br />
+            1&nbsp;Yr&nbsp;Exp
+          </span>
+        </td>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/colab.svg" alt="colab" width="40" height="40"/><br />
+            Colab<br />
+            1&nbsp;Yr&nbsp;Exp
+          </span>
+        </td>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/rapidminer.png" alt="Rapidminer" width="40" height="40"/><br />
+            Rapidminer<br />
+            1&nbsp;Yr&nbsp;Exp
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <th>Internet of Things</th>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/cpp.png" alt="cpp" width="40" height="40"/><br />
+            C++<br />
+            1&nbsp;Yr&nbsp;Exp
+          </span>
+        </td>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/micropython.png" alt="micropython" width="40" height="40"/><br />
+            MicroPython<br />
+            1&nbsp;Yr&nbsp;Exp
+          </span>
+        </td>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/arduino.png" alt="arduino" width="40" height="40"/><br />
+            Arduino<br />
+            1&nbsp;Yr&nbsp;Exp
+          </span>
+        </td>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/esp32.png" alt="esp32" width="40" height="40"/><br />
+            ESP32<br />
+            1&nbsp;Yr&nbsp;Exp
+          </span>
+        </td>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/ubidots.png" alt="ubidots" width="40" height="40"/><br />
+            Ubidots<br />
+            1&nbsp;Yr&nbsp;Exp
+          </span>
+        </td>
+        <td align="center" width="100">
+          <span>
+          </span>
+        </td>     
+      </tr>
+    </table>
+  </details>
+
+  <h3 align="left">Project Management 🗂️</h3>
+  Accustomed to using version control systems, especially Git and Github. Some experience with deploying applications on production servers using Dockers and Nginx. Deployment of academic projects with Vercel, Netlify and Render. Experience in managing tasks on Agile boards following Scrum with Sprints or Kanban. Documentation with Confluence and Test Case Repository Management with XRay in Jira.
+  <br />
+  <br />
+  <details>
+    <summary>Tools and Technologies</summary>
+    <br />
+    <table>
+      <tr>
+        <th>Version Control System</th>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/git.png" alt="git" width="40" height="40"/><br />
+            Git<br />
+            3&nbsp;Yrs&nbsp;Exp
+          </span>
+        </td>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/github.jpg" alt="github" width="40" height="40"/><br />
+            GitHub<br />
+            3&nbsp;Yrs&nbsp;Exp
+          </span>
+        </td>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/gitlab.webp" alt="gitlab" width="40" height="40"/><br />
+            GitLab<br />
+            1&nbsp;Yr&nbsp;Exp
+          </span>
+        </td>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/bitbucket.webp" alt="bitbucket" width="40" height="40"/><br />
+            Bitbucket<br />
+            <1&nbsp;Yr&nbsp;Exp
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <th>CI/CD</th>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/docker.png" alt="docker" width="40" height="40"/><br />
+            Docker<br />
+            1&nbsp;Yr&nbsp;Exp
+          </span>
+        </td>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/jenkins.svg" alt="jenkins" width="40" height="40"/><br />
+            Jenkins<br />
+            <1&nbsp;Yr&nbsp;Exp
+          </span>
+        </td>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/nginx.svg" alt="nginx" width="40" height="40"/><br />
+            Nginx<br />
+            <1&nbsp;Yr&nbsp;Exp
+          </span>
+        </td>
+        <td align="center" width="100">
+          <span>
+          </span>
+        </td>      
+      </tr>
+      <tr>
+        <th>Project Management</th>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/jira.svg" alt="jira" width="40" height="40"/><br />
+            Jira<br />
+            1&nbsp;Yr&nbsp;Exp
+          </span>
+        </td>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/xray.png" alt="xray" width="40" height="40"/><br />
+            XRay<br />
+            1&nbsp;Yr&nbsp;Exp<br />
+          </span>
+        </td>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/confluence.png" alt="confluence" width="40" height="40"/><br />
+            Confluence<br />
+            1&nbsp;Yr&nbsp;Exp
+          </span>
+        </td>
+        <td align="center" width="100">
+          <span>
+            <img src="./icons/slack.png" alt="slack" width="40" height="40"/><br />
+            Slack<br />
+            1&nbsp;Yrs&nbsp;Exp
+          </span>
+        </td>
+      </tr>
+    </table>
+  </details>
 </details>
 
-<h3 align="left">Industry-Specific Skills 🤖</h3>
-Theoretical bases and practice with machine learning algorithms for classification and clustering prediction problems.  Assembly and connection of electronic circuits connected to the IoT using Arduino and ESP32 boards, use of libraries and sensors as well as communication protocols such as HTTP and MQTT.
-<br />
-<br />
-<details>
-  <summary>Tables of technologies</summary>
-  <br />
-  <table>
+<h2 align="left">Personal Projects</h2>
+<h3 align="left">Deployed</h3>
+<table>
+  <tr>
+    <th>
+      Repository
+    </th>
+    <td align="center">
+      <a href="https://github.com/BryanGaray99/ML-Predicci-n-de-Nivel-de-Afectados-en-Desastres-Naturales" target="_blank" rel="nofollow">
+        Decision Tree Machine Learning Web Simulator
+      </a> <br />
+      <span>Last&nbsp;Commit:&nbsp;Jul&nbsp;1,2024</span>
+    </td>
+    <td align="center">
+      <a href="https://github.com/BryanGaray99/lobo-cabra-col-5-deafios" target="_blank" rel="nofollow">
+        Arcade Game: Lobo, Cabra y Col: 5 Desafíos
+      </a> <br />
+      <span>Last&nbsp;Commit:&nbsp;Jun&nbsp;25,&nbsp;2024</span>
+    </td>
+    <td align="center">
+      <a href="https://github.com/BryanGaray99/Astro-Place-e-commerce" target="_blank" rel="nofollow">
+        Astro Place mock e-commerce
+      </a> <br />
+      <span>Last&nbsp;Commit:&nbsp;Feb&nbsp;15,&nbsp;2024</span>
+    </td>
+    <td align="center">
+      <a href="https://github.com/BryanGaray99/astro-place-express-postgres-jwt" target="_blank" rel="nofollow">
+        Astro Place Express Backend
+      </a> <br />
+      <span>Last&nbsp;Commit:&nbsp;Sep&nbsp;16,&nbsp;2023</span>
+    </td>
+    <td align="center">
+      <a href="https://github.com/BryanGaray99/next-react-shop-admin" target="_blank" rel="nofollow">
+        Astro Place Shop
+      </a> <br />
+      <span>Last&nbsp;Commit:&nbsp;Aug&nbsp;14,&nbsp;2023</span>
+    </td>
+    <td align="center">
+      <a href="https://github.com/BryanGaray99/TODO-Machine-with-React" target="_blank" rel="nofollow">
+        TODO Machine
+      </a> <br />
+      <span>Last&nbsp;Commit:&nbsp;Jun&nbsp;28,&nbsp;2023</span>
+    </td>
+  </tr>
     <tr>
-      <th>Data Analysis - Machine Learning</th>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/pandas.png" alt="pandas" width="40" height="40"/><br />
-          Pandas<br />
-          2&nbsp;Yrs&nbsp;Exp
-        </span>
-      </td>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/numpy.png" alt="numpy" width="40" height="40"/><br />
-          Numpy<br />
-          2&nbsp;Yrs&nbsp;Exp
-        </span>
-      </td>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/scikit-learn.svg" alt="scikit-learn" width="40" height="40"/><br />
-          Scikit-learn<br />
-          <1&nbsp;Yr&nbsp;Exp
-        </span>
-      </td>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/tensorflow.svg" alt="tensorflow" width="40" height="40"/><br />
-          TensorFlow<br />
-          1&nbsp;Yr&nbsp;Exp
-        </span>
-      </td>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/colab.svg" alt="colab" width="40" height="40"/><br />
-          Colab<br />
-          1&nbsp;Yr&nbsp;Exp
-        </span>
-      </td>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/rapidminer.png" alt="Rapidminer" width="40" height="40"/><br />
-          Rapidminer<br />
-          1&nbsp;Yr&nbsp;Exp
-        </span>
-      </td>
-    </tr>
-    <tr>
-      <th>Internet of Things</th>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/cpp.png" alt="cpp" width="40" height="40"/><br />
-          C++<br />
-          1&nbsp;Yr&nbsp;Exp
-        </span>
-      </td>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/micropython.png" alt="micropython" width="40" height="40"/><br />
-          MicroPython<br />
-          1&nbsp;Yr&nbsp;Exp
-        </span>
-      </td>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/arduino.png" alt="arduino" width="40" height="40"/><br />
-          Arduino<br />
-          1&nbsp;Yr&nbsp;Exp
-        </span>
-      </td>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/esp32.png" alt="esp32" width="40" height="40"/><br />
-          ESP32<br />
-          1&nbsp;Yr&nbsp;Exp
-        </span>
-      </td>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/ubidots.png" alt="ubidots" width="40" height="40"/><br />
-          Ubidots<br />
-          1&nbsp;Yr&nbsp;Exp
-        </span>
-      </td>
-      <td align="center" width="100">
-        <span>
-        </span>
-      </td>     
-    </tr>
-  </table>
-</details>
-
-<h3 align="left">Project Management 🗂️</h3>
-Accustomed to using version control systems, especially Git and Github. Some experience with deploying applications on production servers using Dockers and Nginx. Deployment of academic projects with Vercel, Netlify and Render. Experience in managing tasks on Agile boards following Scrum with Sprints or Kanban. Documentation with Confluence and Test Case Repository Management with XRay in Jira.
-<br />
-<br />
-<details>
-  <summary>Tools and Technologies</summary>
-  <br />
-  <table>
-    <tr>
-      <th>Version Control System</th>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/git.png" alt="git" width="40" height="40"/><br />
-          Git<br />
-          3&nbsp;Yrs&nbsp;Exp
-        </span>
-      </td>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/github.jpg" alt="github" width="40" height="40"/><br />
-          GitHub<br />
-          3&nbsp;Yrs&nbsp;Exp
-        </span>
-      </td>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/gitlab.webp" alt="gitlab" width="40" height="40"/><br />
-          GitLab<br />
-          1&nbsp;Yr&nbsp;Exp
-        </span>
-      </td>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/bitbucket.webp" alt="bitbucket" width="40" height="40"/><br />
-          Bitbucket<br />
-          <1&nbsp;Yr&nbsp;Exp
-        </span>
-      </td>
-    </tr>
-    <tr>
-      <th>CI/CD</th>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/docker.png" alt="docker" width="40" height="40"/><br />
-          Docker<br />
-          1&nbsp;Yr&nbsp;Exp
-        </span>
-      </td>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/jenkins.svg" alt="jenkins" width="40" height="40"/><br />
-          Jenkins<br />
-          <1&nbsp;Yr&nbsp;Exp
-        </span>
-      </td>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/nginx.svg" alt="nginx" width="40" height="40"/><br />
-          Nginx<br />
-          <1&nbsp;Yr&nbsp;Exp
-        </span>
-      </td>
-      <td align="center" width="100">
-        <span>
-        </span>
-      </td>      
-    </tr>
-    <tr>
-      <th>Project Management</th>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/jira.svg" alt="jira" width="40" height="40"/><br />
-          Jira<br />
-          1&nbsp;Yr&nbsp;Exp
-        </span>
-      </td>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/xray.png" alt="xray" width="40" height="40"/><br />
-          XRay<br />
-          1&nbsp;Yr&nbsp;Exp<br />
-        </span>
-      </td>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/confluence.png" alt="confluence" width="40" height="40"/><br />
-          Confluence<br />
-          1&nbsp;Yr&nbsp;Exp
-        </span>
-      </td>
-      <td align="center" width="100">
-        <span>
-          <img src="./icons/slack.png" alt="slack" width="40" height="40"/><br />
-          Slack<br />
-          1&nbsp;Yrs&nbsp;Exp
-        </span>
-      </td>
-    </tr>
-  </table>
-</details>
+    <th style="width: 150px;">
+      Deployment
+    </th>
+    <td align="center">
+      <div style="width: 200px;">
+        <a href="https://decision-tree-simulator.onrender.com/" target="_blank" rel="nofollow">
+          <img src="./proyectos/simulador-decision-tree.png" alt="decision-tree" />
+          https://decision-tree-simulator.onrender.com/
+        </a>
+      </div>
+    </td>
+    <td align="center">
+      <div style="width: 200px;">
+        <a href="https://bg-lcc-game.onrender.com/games" target="_blank" rel="nofollow">
+          <img src="./proyectos/lcc-juego.png" alt="lcc-juego" />
+          https://bg-lcc-game.onrender.com/games
+        </a>
+      </div>
+    </td>
+    <td align="center">
+      <div style="width: 200px;">
+        <a href="https://astro-place-b.netlify.app/" target="_blank" rel="nofollow">
+          <img src="./proyectos/astroplace-desktop.png" alt="astroplace" />
+          https://astro-place-b.netlify.app/
+        </a>
+      </div>
+    </td>
+    <td align="center">
+      <div style="width: 200px;">
+        <a href="https://astro-place-express-backend.onrender.com/" target="_blank" rel="nofollow">
+          <img src="./proyectos/astroplace-backend.png" alt="astroplace-express" />
+          https://astro-place-express-backend.onrender.com/
+        </a>
+      </div>
+    </td>
+    <td align="center">
+      <div style="width: 200px;">
+        <a href="https://astro-place-admin-bg.vercel.app/" target="_blank" rel="nofollow">
+          <img src="./proyectos/astroplace-admin.png" alt="astroplace-admin" />
+          https://astro-place-admin-bg.vercel.app/
+        </a>
+      </div>
+    </td>
+    <td align="center">
+      <div style="width: 200px;">
+        <a href="https://bryangaray99.github.io/TODO-Machine-with-React/" target="_blank" rel="nofollow">
+          <img src="./proyectos/todo-machine.png" alt="todo-machine" />
+          https://bryangaray99.github.io/TODO-Machine-with-React/
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Description
+    </th>
+    <td align="center">
+      <span>
+        Decision Tree Simulator is a web application built with Django that allows you to predict data using machine learning models. The application uses Python and RapidMiner models.
+      </span>
+    </td>
+    <td align="center">
+      <span>
+        Academic project for the subject of Software Quality Assurance. The main objective was to meet a series of functional, non-functional requirements and perform different testing techniques.
+      </span>
+    </td>
+    <td align="center">
+      <span>
+        Project of the "React.js con Vite.js y Tailwind CSS" course from Platzi. The goal was to put into practice web development skills and create an interactive, responsive, mock e-commerce.
+      </span>
+    </td>
+    <td align="center">
+      <span>
+        This project showcases essential backend practices, including Sequelize ORM for PostgreSQL, schema validation and error handling. Security with Passport.js, JWT, role-based authorization, and password recovery via Nodemailer.
+      </span>
+    </td>
+    <td align="center">
+      <span>
+        This is the final project of the Professional Course of Next.js from Platzi. My goal with the course was to improve my skills with the JavaScript ecosystem, exploring professional ways of working with the Next.js framework.
+      </span>
+    </td>
+    <td align="center">
+      <span>
+        This project is built based on what was learned in the React.js course, having functionalities to create tasks and implementing hooks like useState, useEffect, creation of components, manipulation of the DOM, among others, is used.
+      </span>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Main Skills
+    </th>
+    <td align="left">
+      <span>
+        <ul style="list-style-type: disc; padding-left: 20px; text-align: left;">
+          <li><strong>Frontend:</strong> HTML, CSS, JavaScript</li>
+          <li><strong>Backend:</strong> Python, Django, PostgreSQL
+          <li><strong>Machine Learning:</strong> Scikit-Learn,  Rapidminer</li>
+        </ul>
+      </span>
+    </td>
+    <td align="left">
+      <span>
+        <ul style="list-style-type: disc; padding-left: 20px;">
+          <li><strong>Frontend:</strong> HTML, CSS, JavaScript</li>
+          <li><strong>Backend:</strong> Node.js, Express.js</li>
+          <li><strong>Database:</strong> MongoDB</li>
+          <li><strong>Testing:</strong> Loadster y Google Lighthouse</li>
+        </ul>
+      </span>
+    </td>
+    <td align="left">
+      <span>
+        <ul style="list-style-type: disc; padding-left: 20px;">
+          <li><strong>Frontend:</strong> React.js, Vite.js, TailwindCSS</li>
+          <li><strong>React Hooks:</strong> useState, useContext, useEffect</li>
+          <li><strong>Deployment:</strong> Netlify</li>
+        </ul>
+      </span>
+    </td>
+    <td align="left">
+      <span>
+        <ul style="list-style-type: disc; padding-left: 20px; text-align: left;">
+          <li><strong>Backend:</strong> Node.js, Express.js</li>
+          <li><strong>Libraries:</strong> Sequelize, Joi, Boom, Passport.js, JWT, Nodemailer</li>
+          <li><strong>Database:</strong> PostgreSQL</li>
+        </ul>
+      </span>
+    </td>
+    <td align="left">
+      <span>
+        <ul style="list-style-type: disc; padding-left: 20px;">
+          <li><strong>Frontend:</strong> React.js, Next.js, TailwindCSS</li>
+          <li><strong>Deployment:</strong> Vercel</li>
+          <li><strong>Consume of APIs:</strong> Prettier, esLint</li>
+        </ul>
+      </span>
+    </td>
+    <td align="left">
+      <span>
+        <ul style="list-style-type: disc; padding-left: 20px;">
+          <li><strong>Frontend:</strong> React, hooks, jsx</li>
+          <li><strong>Deployment:</strong> GitHub Pages</li>
+        </ul>
+      </span>
+    </td>
+  </tr>
+</table>
