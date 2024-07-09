@@ -145,14 +145,14 @@
       <span>
         <img src="./icons/node.png" alt="nodejs" width="40" height="40"/><br />
         Node.js<br />
-        3&nbsp;Yrs&nbsp;Exp
+        2&nbsp;Yrs&nbsp;Exp
       </span>
     </td>
     <td align="center" width="100">
       <span>
         <img src="./icons/python.png" alt="python" width="40" height="40"/><br />
         Python<br />
-        3&nbsp;Yrs&nbsp;Exp
+        2&nbsp;Yrs&nbsp;Exp
       </span>
     </td>
     <td align="center" width="100">
@@ -282,7 +282,7 @@ Working experience in unit testing, functional, End2End, load, performance, acce
         <span>
           <img src="./icons/junit.png" alt="junit" width="40" height="40"/><br />
           JUnit<br />
-          3&nbsp;Yrs&nbsp;Exp
+          1&nbsp;Yrs&nbsp;Exp
         </span>
       </td>
       <td>
@@ -400,8 +400,8 @@ Theoretical bases and practice with machine learning algorithms for classificati
       </td>
       <td align="center" width="100">
         <span>
-          <img src="./icons/jupyter.svg" alt="jupyter" width="40" height="40"/><br />
-          Jupyter Notebooks<br />
+          <img src="./icons/rapidminer.png" alt="Rapidminer" width="40" height="40"/><br />
+          Rapidminer<br />
           1&nbsp;Yr&nbsp;Exp
         </span>
       </td>
@@ -410,7 +410,7 @@ Theoretical bases and practice with machine learning algorithms for classificati
       <th>Internet of Things</th>
       <td align="center" width="100">
         <span>
-          <img src="./icons/cpp.svg" alt="arduino" width="40" height="40"/><br />
+          <img src="./icons/cpp.png" alt="cpp" width="40" height="40"/><br />
           C++<br />
           1&nbsp;Yr&nbsp;Exp
         </span>
@@ -545,7 +545,7 @@ Accustomed to using version control systems, especially Git and Github. Some exp
         <span>
           <img src="./icons/slack.png" alt="slack" width="40" height="40"/><br />
           Slack<br />
-          3&nbsp;Yrs&nbsp;Exp
+          1&nbsp;Yrs&nbsp;Exp
         </span>
       </td>
     </tr>
