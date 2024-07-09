@@ -565,40 +565,52 @@
       Repository
     </th>
     <td align="center">
-      <a href="https://github.com/BryanGaray99/ML-Predicci-n-de-Nivel-de-Afectados-en-Desastres-Naturales" target="_blank" rel="nofollow">
-        Decision Tree Machine Learning Web Simulator
-      </a> <br />
-      <span>Last&nbsp;Commit:&nbsp;Jul&nbsp;1,2024</span>
+      <strong>
+        <a href="https://github.com/BryanGaray99/ML-Predicci-n-de-Nivel-de-Afectados-en-Desastres-Naturales" target="_blank" rel="nofollow">
+          Decision Tree Machine Learning Web Simulator
+        </a> <br />
+        <span>Last&nbsp;Commit:&nbsp;Jul&nbsp;1,2024</span>
+      </strong>
     </td>
     <td align="center">
-      <a href="https://github.com/BryanGaray99/lobo-cabra-col-5-deafios" target="_blank" rel="nofollow">
-        Arcade Game: Lobo, Cabra y Col: 5 Desafíos
-      </a> <br />
-      <span>Last&nbsp;Commit:&nbsp;Jun&nbsp;25,&nbsp;2024</span>
+      <strong>
+        <a href="https://github.com/BryanGaray99/lobo-cabra-col-5-deafios" target="_blank" rel="nofollow">
+          Arcade Game: Lobo, Cabra y Col: 5 Desafíos
+        </a> <br />
+        <span>Last&nbsp;Commit:&nbsp;Jun&nbsp;25,&nbsp;2024</span>
+      </strong>
     </td>
     <td align="center">
-      <a href="https://github.com/BryanGaray99/Astro-Place-e-commerce" target="_blank" rel="nofollow">
-        Astro Place mock e-commerce
-      </a> <br />
-      <span>Last&nbsp;Commit:&nbsp;Feb&nbsp;15,&nbsp;2024</span>
+      <strong>
+        <a href="https://github.com/BryanGaray99/Astro-Place-e-commerce" target="_blank" rel="nofollow">
+          Astro Place mock e-commerce
+        </a> <br />
+        <span>Last&nbsp;Commit:&nbsp;Feb&nbsp;15,&nbsp;2024</span>
+      </strong>
     </td>
     <td align="center">
-      <a href="https://github.com/BryanGaray99/astro-place-express-postgres-jwt" target="_blank" rel="nofollow">
-        Astro Place Express Backend
-      </a> <br />
-      <span>Last&nbsp;Commit:&nbsp;Sep&nbsp;16,&nbsp;2023</span>
+      <strong>
+        <a href="https://github.com/BryanGaray99/astro-place-express-postgres-jwt" target="_blank" rel="nofollow">
+          Astro Place Express Backend
+        </a> <br />
+        <span>Last&nbsp;Commit:&nbsp;Sep&nbsp;16,&nbsp;2023</span>
+      </strong>
     </td>
     <td align="center">
-      <a href="https://github.com/BryanGaray99/next-react-shop-admin" target="_blank" rel="nofollow">
-        Astro Place Shop
-      </a> <br />
-      <span>Last&nbsp;Commit:&nbsp;Aug&nbsp;14,&nbsp;2023</span>
+      <strong>
+        <a href="https://github.com/BryanGaray99/next-react-shop-admin" target="_blank" rel="nofollow">
+          Astro Place Shop
+        </a> <br />
+        <span>Last&nbsp;Commit:&nbsp;Aug&nbsp;14,&nbsp;2023</span>
+      </strong>
     </td>
     <td align="center">
-      <a href="https://github.com/BryanGaray99/TODO-Machine-with-React" target="_blank" rel="nofollow">
-        TODO Machine
-      </a> <br />
-      <span>Last&nbsp;Commit:&nbsp;Jun&nbsp;28,&nbsp;2023</span>
+      <strong>
+        <a href="https://github.com/BryanGaray99/TODO-Machine-with-React" target="_blank" rel="nofollow">
+          TODO Machine
+        </a> <br />
+        <span>Last&nbsp;Commit:&nbsp;Jun&nbsp;28,&nbsp;2023</span>
+      </strong>
     </td>
   </tr>
   <tr>
