@@ -755,3 +755,180 @@
     </td>
   </tr>
 </table>
+
+<br />
+<h3 align="left">Projects with demo video</h3>
+<table>
+  <tr>
+    <th>Repository</th>
+    <td align="center">
+      <strong>
+        <a href="https://github.com/BryanGaray99/esp32-ubidots-gas-leakage-fire-alert-system" target="_blank" rel="nofollow">
+          Gas and Fire Leak Alert System
+        </a> <br />
+        <span>Last&nbsp;Commit:&nbsp;Feb&nbsp;12,&nbsp;2024</span>
+      </strong>
+    </td>
+    <td align="center">
+      <strong>
+        <a href="https://github.com/BryanGaray99/Minimal-Github-Repo-Manager" target="_blank" rel="nofollow">
+          Minimal Github Repository Manager
+        </a> <br />
+        <span>Last&nbsp;Commit:&nbsp;Dec&nbsp;18,&nbsp;2023</span>
+      </strong>
+    </td>
+    <td align="center">
+      <strong>
+        <a href="https://github.com/BryanGaray99/Social-Canvas" target="_blank" rel="nofollow">
+          Social Canvas - Chat Simulator
+        </a> <br />
+        <span>Last&nbsp;Commit:&nbsp;Aug&nbsp;3,&nbsp;2023</span>
+      </strong>
+    </td>
+    <td align="center">
+      <strong>
+        <a href="https://github.com/BryanGaray99/mobile-automation-practice" target="_blank" rel="nofollow">
+          Mobile Automation Practice
+        </a> <br />
+        <span>Last&nbsp;Commit:&nbsp;Dec&nbsp;22,&nbsp;2023</span>
+      </strong>
+    </td>
+    <td align="center">
+      <strong>
+        <a href="https://github.com/BryanGaray99/ionic-projects-dap" target="_blank" rel="nofollow">
+          Ionic Portfolio of Projects
+        </a> <br />
+        <span>Last&nbsp;Commit:&nbsp;Feb&nbsp;13,&nbsp;2024</span>
+      </strong>
+    </td>
+    <td align="center">
+      <strong>
+        <a href="https://github.com/BryanGaray99/University-Management-System-Console-App" target="_blank" rel="nofollow">
+          University Console App
+        </a> <br />
+        <span>Last&nbsp;Commit:&nbsp;Jan&nbsp;18,&nbsp;2024</span>
+      </strong>
+    </td>
+  </tr>
+  <tr>
+    <th>Demo Video</th>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=sCVUJHfonZM" target="_blank" rel="nofollow">
+        <img src="./proyectos/iot-project.png" alt="iot-project"/><br />
+        _________________________________________
+        Link to YouTube
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=hZjFdzrLz2k" target="_blank" rel="nofollow">
+        <img src="./proyectos/android-gh.png" alt="android-gh"/><br />
+        _________________________________________
+        Link to YouTube
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=t34edsnhzso" target="_blank" rel="nofollow">
+        <img src="./proyectos/social-canvas.png" alt="social-canvas"/><br />
+        _________________________________________
+        Link to YouTube
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=0RnwAUYsJsU" target="_blank" rel="nofollow">
+        <img src="./proyectos/mobile-automation.png" alt="mobile-automation"/><br />
+        _________________________________________
+        Link to YouTube
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=nNMiyjAqh4I" target="_blank" rel="nofollow">
+        <img src="./proyectos/ionic-gh.png" alt="ionic-gh"/><br />
+        _________________________________________
+        Link to YouTube
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/BryanGaray99/BryanGaray99/blob/main/proyectos/java-console-app.png" alt="java-console-app"/><br />
+        _________________________________________
+    </td>
+  </tr>
+  <tr>
+    <th>Description</th>
+    <td align="center">
+      <span>
+        This project aims to develop a comprehensive system for detecting and alerting gas leaks and fires using ESP32 microcontroller. The system integrates visual and auditory alarms, communication with Telegram for real-time notifications, and data visualization through Ubidots.
+      </span>
+    </td>
+    <td align="center">
+      <span>
+        The GitHub Client App is designed to provide a mobile interface for users to interact with their GitHub repositories. It leverages the GitHub API to retrieve information about the authenticated user, list repositories, create new repositories, update existing repositories, and delete repositories.
+      </span>
+    </td>
+    <td align="center">
+      <span>
+        Group academic project with the aim to produce a web application using: Angular, Nest, and PostgreSQL. Social Canvas is a prototype of a web application in which accessing from a single account would allow you to access all your social networks and communicate with all your contacts.
+      </span>
+    </td>
+    <td align="center">
+      <span>
+        This project is designed for automating tests on a mobile application, the WebDriver IO APK. It includes test cases covering navigation on the bottom menu bar, successful sign-up, successful login, and card-swiping functionality. It's made with Appium for Java Client v9.
+      </span>
+    </td>
+    <td align="center">
+      <span>
+        This repository contains various Ionic projects, for the university course on Mobile Application Development. Each lab focuses on a different aspect of Ionic, from creating initial components to connecting with the REST API of Github to have a CRUD App to manage repositories, with a Build APK.
+      </span>
+    </td>
+    <td align="center">
+      <span>
+        This is a console app project that combines the fundamentals of Object-Oriented Programming (OOP) and the Model-View-Controller (MVC) architecture. The project allows you to manage and track information about a fictional university, maintaining clean code and adhering to the four pillars of OOP.
+      </span>
+    </td>
+  </tr>
+  <tr>
+    <th>Main Skills</th>
+    <td align="left">
+      <span>
+        <ul style="list-style-type: disc; padding-left: 20px; text-align: left;">
+          <li><strong>IoT:</strong> C++, Ubidots, MQTT & HTTP Protocols, Telegram Bots, ESP 32, Arduino IDE, Sensors and Actuators</li>
+        </ul>
+      </span>
+    </td>
+    <td align="left">
+      <span>
+        <ul style="list-style-type: disc; padding-left: 20px;">
+          <li><strong>Mobile development:</strong> Java, Android, Recycler View, Retrofit Library, Gradle, Github API, Android Studio, OOP, MVC</li>
+        </ul>
+      </span>
+    </td>
+    <td align="left">
+      <span>
+        <ul style="list-style-type: disc; padding-left: 20px;">
+          <li><strong>Frontend:</strong> Angular, TypeScript, JS-HTML-CSS, RxJS, Router, Ng Modules, Components, Services</li>
+        </ul>
+      </span>
+    </td>
+    <td align="left">
+      <span>
+        <ul style="list-style-type: disc; padding-left: 20px; text-align: left;">
+          <li><strong>Testing:</strong> Java, TestNg, Selenium, Appium, Appium Server, Android Studio Emulators</li>
+        </ul>
+      </span>
+    </td>
+    <td align="left">
+      <span>
+        <ul style="list-style-type: disc; padding-left: 20px;">
+          <li><strong>Frontend:</strong> Ionic, Angular, TypeScript, SCSS, HTML, JavaScript</li>
+          <li><strong>Libraries:</strong> HttpClientModule (Angular), Ionic Storage, Angular Forms, GitHub API integration</li>
+        </ul>
+      </span>
+    </td>
+    <td align="left">
+      <span>
+        <ul style="list-style-type: disc; padding-left: 20px;">
+          <li><strong>Java:</strong> OOP: encapsulation, inheritance, polymorphism, & abstraction; MVC, SOLID Principles, Class Diagram</li>
+        </ul>
+      </span>
+    </td>
+  </tr>
+</table>
