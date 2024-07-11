@@ -3,9 +3,9 @@
 
 - I’m currently working on Globant as a Test Automation Engineer.
 
-- Check my professional profile at **<a href="https://www.linkedin.com/in/bg99astro/" target="_blank" rel="noopener">LinkedIn 💼</a>**
+- Check my professional profile at **<a href="https://www.linkedin.com/in/bg99astro/" target="_blank" rel="noopener noreferrer">LinkedIn 💼</a>**
 
-- You can visualize my **<a href="https://www.canva.com/design/DAFsATEDU_4/RKKjNPBKEMcvp4DxJjnp9w/edit?utm_content=DAFsATEDU_4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" rel="noopener">CV: here 📑 </a>**
+- You can visualize my **<a href="https://www.canva.com/design/DAFsATEDU_4/RKKjNPBKEMcvp4DxJjnp9w/edit?utm_content=DAFsATEDU_4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" rel="noopener noreferrer">CV: here 📑 </a>**
 
 - How to reach me: **bryangarayacademico@gmail.com📫** 
 
@@ -566,7 +566,7 @@
     </th>
     <td align="center">
       <strong>
-        <a href="https://github.com/BryanGaray99/ML-Predicci-n-de-Nivel-de-Afectados-en-Desastres-Naturales" target="_blank" rel="noopener">
+        <a href="https://github.com/BryanGaray99/ML-Predicci-n-de-Nivel-de-Afectados-en-Desastres-Naturales" target="_blank" rel="noopener noreferrer">
           Decision Tree Machine Learning Web Simulator
         </a> <br />
         <span>Last&nbsp;Commit:&nbsp;Jul&nbsp;1,2024</span>
@@ -574,7 +574,7 @@
     </td>
     <td align="center">
       <strong>
-        <a href="https://github.com/BryanGaray99/lobo-cabra-col-5-deafios" target="_blank" rel="noopener">
+        <a href="https://github.com/BryanGaray99/lobo-cabra-col-5-deafios" target="_blank" rel="noopener noreferrer">
           Arcade Game: Lobo, Cabra y Col: 5 Desafíos
         </a> <br />
         <span>Last&nbsp;Commit:&nbsp;Jun&nbsp;25,&nbsp;2024</span>
@@ -582,7 +582,7 @@
     </td>
     <td align="center">
       <strong>
-        <a href="https://github.com/BryanGaray99/Astro-Place-e-commerce" target="_blank" rel="noopener">
+        <a href="https://github.com/BryanGaray99/Astro-Place-e-commerce" target="_blank" rel="noopener noreferrer">
           Astro Place: mock e-commerce
         </a> <br />
         <span>Last&nbsp;Commit:&nbsp;Feb&nbsp;15,&nbsp;2024</span>
@@ -590,7 +590,7 @@
     </td>
     <td align="center">
       <strong>
-        <a href="https://github.com/BryanGaray99/astro-place-express-postgres-jwt" target="_blank" rel="noopener">
+        <a href="https://github.com/BryanGaray99/astro-place-express-postgres-jwt" target="_blank" rel="noopener noreferrer">
           Astro Place: Express Backend
         </a> <br />
         <span>Last&nbsp;Commit:&nbsp;Sep&nbsp;16,&nbsp;2023</span>
@@ -598,7 +598,7 @@
     </td>
     <td align="center">
       <strong>
-        <a href="https://github.com/BryanGaray99/next-react-shop-admin" target="_blank" rel="noopener">
+        <a href="https://github.com/BryanGaray99/next-react-shop-admin" target="_blank" rel="noopener noreferrer">
           Astro Place: Admin Site
         </a> <br />
         <span>Last&nbsp;Commit:&nbsp;Aug&nbsp;14,&nbsp;2023</span>
@@ -606,7 +606,7 @@
     </td>
     <td align="center">
       <strong>
-        <a href="https://github.com/BryanGaray99/TODO-Machine-with-React" target="_blank" rel="noopener">
+        <a href="https://github.com/BryanGaray99/TODO-Machine-with-React" target="_blank" rel="noopener noreferrer">
           TODO Machine with React
         </a> <br />
         <span>Last&nbsp;Commit:&nbsp;Jun&nbsp;28,&nbsp;2023</span>
@@ -618,42 +618,42 @@
       Deployment
     </th>
     <td align="center">
-      <a href="https://decision-tree-simulator.onrender.com/" target="_blank" rel="noopener">
+      <a href="https://decision-tree-simulator.onrender.com/" target="_blank" rel="noopener noreferrer">
         <img src="./proyectos/simulador-decision-tree.png" alt="decision-tree"/><br />
         _________________________________________
         Render: https://decision-tree-simulator.onrender.com/
       </a>
     </td>
     <td align="center">
-      <a href="https://bg-lcc-game.onrender.com/games" target="_blank" rel="noopener">
+      <a href="https://bg-lcc-game.onrender.com/games" target="_blank" rel="noopener noreferrer">
         <img src="./proyectos/lcc-juego.png" alt="lcc-juego" /><br />
         _________________________________________
         Render: https://bg-lcc-game.onrender.com/games
       </a>
     </td>
     <td align="center">
-      <a href="https://astro-place-b.netlify.app/" target="_blank" rel="noopener">
+      <a href="https://astro-place-b.netlify.app/" target="_blank" rel="noopener noreferrer">
         <img src="./proyectos/astroplace-desktop.png" alt="astroplace" /><br />
         _________________________________________
         Deployment in Netlify: https://astro-place-b.netlify.app/
       </a>
     </td>
     <td align="center">
-      <a href="https://astro-place-express-backend.onrender.com/" target="_blank" rel="noopener">
+      <a href="https://astro-place-express-backend.onrender.com/" target="_blank" rel="noopener noreferrer">
         <img src="./proyectos/astroplace-backend.png" alt="astroplace-express" /><br />
         _________________________________________
         Reder: https://astro-place-express-backend.onrender.com/
       </a>
     </td>
     <td align="center">
-      <a href="https://astro-place-admin-bg.vercel.app/" target="_blank" rel="noopener">
+      <a href="https://astro-place-admin-bg.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="./proyectos/astroplace-admin.png" alt="astroplace-admin" /><br />
         _________________________________________
         Vercel: https://astro-place-admin-bg.vercel.app/
       </a>
     </td>
     <td align="center">
-      <a href="https://bryangaray99.github.io/TODO-Machine-with-React/" target="_blank" rel="noopener">
+      <a href="https://bryangaray99.github.io/TODO-Machine-with-React/" target="_blank" rel="noopener noreferrer">
         <img src="./proyectos/todo-machine.png" alt="todo-machine" /><br />
         _________________________________________
         https://bryangaray99.github.io/TODO-Machine-with-React/
@@ -763,7 +763,7 @@
     <th>Repository</th>
     <td align="center">
       <strong>
-        <a href="https://github.com/BryanGaray99/esp32-ubidots-gas-leakage-fire-alert-system" target="_blank" rel="noopener">
+        <a href="https://github.com/BryanGaray99/esp32-ubidots-gas-leakage-fire-alert-system" target="_blank" rel="noopener noreferrer">
           Gas and Fire Leak Alert System
         </a> <br />
         <span>Last&nbsp;Commit:&nbsp;Feb&nbsp;12,&nbsp;2024</span>
@@ -771,7 +771,7 @@
     </td>
     <td align="center">
       <strong>
-        <a href="https://github.com/BryanGaray99/Minimal-Github-Repo-Manager" target="_blank" rel="noopener">
+        <a href="https://github.com/BryanGaray99/Minimal-Github-Repo-Manager" target="_blank" rel="noopener noreferrer">
           Minimal Github Repository Manager
         </a> <br />
         <span>Last&nbsp;Commit:&nbsp;Dec&nbsp;18,&nbsp;2023</span>
@@ -779,7 +779,7 @@
     </td>
     <td align="center">
       <strong>
-        <a href="https://github.com/BryanGaray99/Social-Canvas" target="_blank" rel="noopener">
+        <a href="https://github.com/BryanGaray99/Social-Canvas" target="_blank" rel="noopener noreferrer">
           Social Canvas - Chat Simulator
         </a> <br />
         <span>Last&nbsp;Commit:&nbsp;Aug&nbsp;3,&nbsp;2023</span>
@@ -787,7 +787,7 @@
     </td>
     <td align="center">
       <strong>
-        <a href="https://github.com/BryanGaray99/mobile-automation-practice" target="_blank" rel="noopener">
+        <a href="https://github.com/BryanGaray99/mobile-automation-practice" target="_blank" rel="noopener noreferrer">
           Mobile Automation Practice
         </a> <br />
         <span>Last&nbsp;Commit:&nbsp;Dec&nbsp;22,&nbsp;2023</span>
@@ -795,7 +795,7 @@
     </td>
     <td align="center">
       <strong>
-        <a href="https://github.com/BryanGaray99/ionic-projects-dap" target="_blank" rel="noopener">
+        <a href="https://github.com/BryanGaray99/ionic-projects-dap" target="_blank" rel="noopener noreferrer">
           Ionic Portfolio of Projects
         </a> <br />
         <span>Last&nbsp;Commit:&nbsp;Feb&nbsp;13,&nbsp;2024</span>
@@ -803,7 +803,7 @@
     </td>
     <td align="center">
       <strong>
-        <a href="https://github.com/BryanGaray99/University-Management-System-Console-App" target="_blank" rel="noopener">
+        <a href="https://github.com/BryanGaray99/University-Management-System-Console-App" target="_blank" rel="noopener noreferrer">
           University Console App
         </a> <br />
         <span>Last&nbsp;Commit:&nbsp;Jan&nbsp;18,&nbsp;2024</span>
@@ -813,35 +813,35 @@
   <tr>
     <th>Demo Video</th>
     <td align="center">
-      <a href="https://www.youtube.com/watch?v=sCVUJHfonZM" target="_blank" rel="noopener">
+      <a href="https://www.youtube.com/watch?v=sCVUJHfonZM" target="_blank" rel="noopener noreferrer">
         <img src="./proyectos/iot-project.png" alt="iot-project"/><br />
         _________________________________________
         Link to YouTube
       </a>
     </td>
     <td align="center">
-      <a href="https://www.youtube.com/watch?v=hZjFdzrLz2k" target="_blank" rel="noopener">
+      <a href="https://www.youtube.com/watch?v=hZjFdzrLz2k" target="_blank" rel="noopener noreferrer">
         <img src="./proyectos/android-gh.png" alt="android-gh"/><br />
         _________________________________________
         Link to YouTube
       </a>
     </td>
     <td align="center">
-      <a href="https://www.youtube.com/watch?v=t34edsnhzso" target="_blank" rel="noopener">
+      <a href="https://www.youtube.com/watch?v=t34edsnhzso" target="_blank" rel="noopener noreferrer">
         <img src="./proyectos/social-canvas.png" alt="social-canvas"/><br />
         _________________________________________
         Link to YouTube
       </a>
     </td>
     <td align="center">
-      <a href="https://www.youtube.com/watch?v=0RnwAUYsJsU" target="_blank" rel="noopener">
+      <a href="https://www.youtube.com/watch?v=0RnwAUYsJsU" target="_blank" rel="noopener noreferrer">
         <img src="./proyectos/mobile-automation.png" alt="mobile-automation"/><br />
         _________________________________________
         Link to YouTube
       </a>
     </td>
     <td align="center">
-      <a href="https://www.youtube.com/watch?v=nNMiyjAqh4I" target="_blank" rel="noopener">
+      <a href="https://www.youtube.com/watch?v=nNMiyjAqh4I" target="_blank" rel="noopener noreferrer">
         <img src="./proyectos/ionic-gh.png" alt="ionic-gh"/><br />
         _________________________________________
         Link to YouTube
