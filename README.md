@@ -558,7 +558,7 @@
 </details>
 
 <h2 align="left">Personal Projects</h2>
-<h3 align="left">Deployed</h3>
+<h3 align="left">Deployed (Please be patient with the web pages, they are on a free deploy and can spin down after periods of inactivity 😉)</h3>
 <table>
   <tr>
     <th>
